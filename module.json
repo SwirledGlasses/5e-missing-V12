@@ -1,6 +1,6 @@
 {
-    "id": "completecompendium",
-    "title": "5e Complete Compendium",
+    "id": "missingcompendia",
+    "title": "5e Missing Compendia",
     "description": "This module adds classes, subclasses, and other items missing from the D&D 5e SRD",
     "version": "0.3.6",
     "authors": [
@@ -21,9 +21,9 @@
         "verified": "12.331",
         "maximum": "12"
     },
-    "url": "https://github.com/xImidasIx/5e-complete-V12",
-    "manifest": "https://github.com/xImidasIx/5e-complete-V12/releases/download/release/module.json"
-    "download": "https://github.com/xImidasIx/5e-complete-V12/releases/download/release/5e-complete-V12.zip",
+    "url": "https://github.com/SwirledGlasses/5e-missing-V12",
+    "manifest": "https://github.com/SwirledGlasses/5e-missing-V12/releases/download/release/module.json",
+    "download": "https://github.com/SwirledGlasses/5e-missing-V12/releases/download/release/5e-complete-V12.zip",
     "packs": [
         {
             "name": "5e-creatures",
